@@ -1,0 +1,7 @@
+*>>>>> CHARMM topology for Argon <<<<<
+27 1
+MASS  1  Ar 39.948  Ar
+RESI Ar  0.0
+GROUP
+ATOM Ar Ar 0.0
+END
